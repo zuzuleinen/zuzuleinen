@@ -9,5 +9,6 @@ I believe that simple is better than complex, and code must add business value f
 ## Technologies
 The following is a list of technologies I specialize in and utilize:
 
-Languages:	Go(8 years), PHP(7 years), Javascript, Typescrypt, SQL
-Technologies: 	Linux, PostgreSQL, MySQL, Microservices, AWS, React, Docker, Kubernetes, Laravel, Symfony
+**Languages**:	Go(8 years), PHP(7 years), Javascript, Typescript, SQL
+
+**Technologies**: 	Linux, PostgreSQL, MySQL, Microservices, AWS, React, Docker, Kubernetes, Laravel, Symfony
